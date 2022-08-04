@@ -103,6 +103,7 @@ align-items: center;
     fill:currentColor;
 color: var(--accent-text-color);
 }
+
 .icon-letter{
     margin-right: 10px;
 fill: currentColor;
@@ -122,6 +123,10 @@ font-weight: 500;
 font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.02em;
+}
+a.current{
+color: var(--accent-text-color);
+
 }
 .header-contacts a{
     font-style: normal;
